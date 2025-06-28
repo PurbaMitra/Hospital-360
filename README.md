@@ -68,4 +68,4 @@ To provide an intuitive and data-driven platform that:
 
 ## 📸 Screenshot
 
-![Hospital360 Dashboard Preview](Screenshot%202025-06-28%20161241.png)
+![Hospital360 Dashboard Preview](Hospital_360.png)
